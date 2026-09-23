@@ -33,14 +33,14 @@ Modern e-learning ecosystems suffer from choice paralysis, often relying on stat
 
 ---
 
-## 📊 Interactive Dashboard Features (`app.py`)
+## Interactive Dashboard Features (`app.py`)
 * **Tab 1: Learner Profile & Recommendations:** Interactive dropdown for selecting any user ID, displaying real-time KPI overview metrics alongside a dynamically filtered top-$N$ recommended course matrix.
 * **Tab 2: Cluster Analytics Dashboard:** Multi-dimensional scatter plot highlighting user distribution (`Spend` vs `Enrollments` scaled by `Diversity`) alongside a cluster volume breakdown donut chart.
 * **Tab 3: Segment Comparison Panel:** Executive aggregation table and bar chart contrasting total spending dynamics against unit costs per course across all segments.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python 3.11
 * **Machine Learning & Data:** `pandas`, `numpy`, `scikit-learn` (K-Means, TfidfVectorizer, Cosine Similarity)
 * **Data Visualization:** `plotly.express`
@@ -48,7 +48,7 @@ Modern e-learning ecosystems suffer from choice paralysis, often relying on stat
 
 ---
 
-## ⚙️ Installation & Running Locally
+## Installation & Running Locally
 
 1. **Clone the repository:**
    ```bash
