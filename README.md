@@ -48,9 +48,3 @@ Modern e-learning ecosystems suffer from choice paralysis, often relying on stat
 
 ---
 
-## Installation & Running Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/SouvikDebnath2004/EduPro-Student-Segmentation.git](https://github.com/SouvikDebnath2004/EduPro-Student-Segmentation.git)
-   cd EduPro-Student-Segmentation
